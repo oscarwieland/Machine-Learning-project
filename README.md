@@ -12,7 +12,10 @@ Then we will try some models seen in the lecture without any specified parameter
 
 Finally, we will evaluate the performance of our machine learning models for tag prediction on Stack Overflow employing a measure of accuracy defined by the proportion of correct predictions out of all predictions made, as per the standard formula:
 
-\[ \text{Accuracy} = \frac{\text{Number of correct predictions}}{\text{Total number of predictions}} \]
+$$
+\text{Accuracy} = \frac{\text{Number of correct predictions}}{\text{Total number of predictions}}
+$$
+
 
 
 This statistic measures the frequency with which the model correctly recognizes the tags associated with each post, providing a simple way to assess the prediction effectiveness of our model.
